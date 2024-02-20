@@ -44,3 +44,10 @@ Anasayfada bulunun Welcome (İsim) linkine tıklayarak güncelleme sayfasına ul
 
 ## Logout
 Anasayfada bulunun Logout’a tıklayarak hesabınızdan çıkış yapabilirisiniz. Butona bastığınızda hesabınızdan çıkış yapılır ve login sayfasına yönlendirilirsiniz.
+
+## Veritabanı Tabloları
+users tablosu:
+![image](https://github.com/berkantkaraca/NoteApp/assets/93256643/cc667d35-2d30-4f05-a635-21e082d95d30)
+
+notes tablosu:
+![image](https://github.com/berkantkaraca/NoteApp/assets/93256643/7dec9d92-bc06-4bd8-acf6-bbe21ca02633)
