@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 ## Proje Hakkında
-Stajım sırasında geliştirdiğim temel not alma uygulamasıdır.
+Stajım sırasında geliştirdiğim temel not alma uygulamasıdır. Uygulamayı denemek için [notes.berkantkaraca.com.tr](https://notes.berkantkaraca.com.tr) adresini ziyaret edebilirsiniz.  
 
 Register sayfası ile sisteme kayıt olun.
 ![image](https://github.com/berkantkaraca/NoteApp/assets/93256643/fb0ce72c-78f2-423c-8527-41a81133fc5a)
